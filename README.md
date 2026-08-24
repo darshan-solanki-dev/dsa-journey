@@ -6,19 +6,9 @@ My journey learning Data Structures and Algorithms through problem solving.
 
 Build strong problem-solving skills and understand DSA deeply rather than simply memorizing solutions.
 
-## 📚 Topics
+## 📚Current Learning Topics
 
 - [ ] Arrays
-- [ ] Strings
-- [ ] Hashing
-- [ ] Linked Lists
-- [ ] Stack & Queue
-- [ ] Binary Search
-- [ ] Trees
-- [ ] Heap
-- [ ] Graphs
-- [ ] Recursion & Backtracking
-- [ ] Dynamic Programming
 
 ## 📊 Progress
 
